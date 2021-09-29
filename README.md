@@ -34,7 +34,7 @@
 [<img align="left" alt="Google Firebase" width="30px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" />](https://firebase.google.com/?gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a8Gvtdu92HqF8uNWz7VszPaxn-E7nvM42KRGiXA6XFsenKA_pL6zSRoC9o8QAvD_BwE&gclsrc=aw.ds)
 [<img align="left" alt="Blender" width="30px" src="https://i.redd.it/hces62wgka951.png" />](https://www.blender.org/)
 <br/>
-<br/>
+
 [<img align="left" alt="Lightroom" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkPQl9P-fEiebDbzw4tmVY5zlPuXhx4HLc2coErnw_b32_vfObgztZhrDTj67YNt7wWM&usqp=CAU" />](https://www.adobe.com/in/products/photoshop-lightroom.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw-sqKBhBjEiwAVaQ9a4CVglNI3F6_MIWnDyn8NXVBwf9eT_ZZBWIMWCo7RONYrZ5bWGIeyRoCvkcQAvD_BwE:G:s&s_kwcid=AL!3085!3!424769312054!e!!g!!lightroom!221443148!17534780708&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a4CVglNI3F6_MIWnDyn8NXVBwf9eT_ZZBWIMWCo7RONYrZ5bWGIeyRoCvkcQAvD_BwE)
 
 <br />
