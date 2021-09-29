@@ -12,5 +12,5 @@
 ### Reach me out at :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhnk_un2NtyuDXHVwPOsZFHNA-mSBDyKysQ&usqp=CAU" />](https://www.linkedin.com/in/harsh-srivastava-65649a17a/)
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://toppng.com/uploads/preview/instagram-logo-1155105798346ilx9kcc6.png" />](https://www.instagram.com/_harsh_bts_srivastava_/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://bitzinfotech.com/wp-content/uploads/2020/05/insta-class.png" />](https://www.instagram.com/_harsh_bts_srivastava_/)
 <br />
