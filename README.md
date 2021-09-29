@@ -39,6 +39,7 @@
 
 
 <summary>:zap: GitHub Stats</summary>
+<br />
 
 <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srivastava57harsh&show_icons=true&hide_border=true" />
 
