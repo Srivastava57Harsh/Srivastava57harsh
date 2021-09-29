@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Automation
 - 💬 Ask me about GUI/UX/UI
 - 📫 How to reach me: srivastava57harsh@gmail.com
-- ⚡ Fun fact: There 24hrs in a day
+- ⚡ Fun fact: There are 24hrs in a day
 
 ### Reach me out at :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhnk_un2NtyuDXHVwPOsZFHNA-mSBDyKysQ&usqp=CAU" />](https://www.linkedin.com/in/harsh-srivastava-65649a17a/)
