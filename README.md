@@ -1,6 +1,11 @@
 ### Hola, I am Harsh Srivastava👋
 
- <img align="top" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="500" height="500" />
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="500" height="500" id ="hp"/>
+
+#hp  {
+float: right;    
+ margin: 0 0 0 15px;
+}
 
 - 🔭 I’m currently working on GUI
 - 🌱 I’m currently learning Machine Learning
