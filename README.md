@@ -36,7 +36,6 @@
 
 <br />
 <br />
----
 
 
 <summary>:zap: GitHub Stats</summary>
@@ -44,12 +43,11 @@
 <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srivastava57harsh&show_icons=true&hide_border=true" />
 
 <br />
-<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava57harsh" />
+<img align="bottom" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava57harsh" />
 
 </details>
 
