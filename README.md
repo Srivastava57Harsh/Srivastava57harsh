@@ -24,15 +24,12 @@
 [<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.mysql.com/)
 [<img align="left" alt="GitHub" width="30px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />](https://github.com/)
-
-<br />
-
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="Photoshop" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-cc-1855022-1571403.png" />](https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw-sqKBhBjEiwAVaQ9a4ykLsXHZb_q1jeAtpt4OAG31myZzKJeL1va8xiD6ZeX7ayGGpksqRoCDSAQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a4ykLsXHZb_q1jeAtpt4OAG31myZzKJeL1va8xiD6ZeX7ayGGpksqRoCDSAQAvD_BwE)
 [<img align="left" alt="Illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" />](https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=CjwKCAjw-sqKBhBjEiwAVaQ9azoYjp4hcPIWqJbjLS7pXIomSgUZwWzV5T6uXFc24N04MoN8wF2hUBoCW44QAvD_BwE:G:s&s_kwcid=AL!3085!3!248235017690!e!!g!!illustrator!221172068!17525759348&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9azoYjp4hcPIWqJbjLS7pXIomSgUZwWzV5T6uXFc24N04MoN8wF2hUBoCW44QAvD_BwE)
 
 <br />
-<br />
+
 
 
 [<img align="left" alt="Lightroom" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkPQl9P-fEiebDbzw4tmVY5zlPuXhx4HLc2coErnw_b32_vfObgztZhrDTj67YNt7wWM&usqp=CAU" />](https://www.adobe.com/in/products/photoshop-lightroom.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw-sqKBhBjEiwAVaQ9a4CVglNI3F6_MIWnDyn8NXVBwf9eT_ZZBWIMWCo7RONYrZ5bWGIeyRoCvkcQAvD_BwE:G:s&s_kwcid=AL!3085!3!424769312054!e!!g!!lightroom!221443148!17534780708&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a4CVglNI3F6_MIWnDyn8NXVBwf9eT_ZZBWIMWCo7RONYrZ5bWGIeyRoCvkcQAvD_BwE)
