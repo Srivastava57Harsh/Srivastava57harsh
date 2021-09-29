@@ -31,6 +31,7 @@
 [<img align="left" alt="Sony Vegas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />](https://www.vegascreativesoftware.com/ca/?gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a1tx7ese-oTqgsTwMbpHH1TpglcKZB68ULTEJxHwHaBnvOllctSmchoCFm0QAvD_BwE)
 [<img align="left" alt="Google Firebase" width="30px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" />](https://firebase.google.com/?gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a8Gvtdu92HqF8uNWz7VszPaxn-E7nvM42KRGiXA6XFsenKA_pL6zSRoC9o8QAvD_BwE&gclsrc=aw.ds)
 <br />
+<br />
 [<img align="left" alt="Blender" width="30px" src="https://i.redd.it/hces62wgka951.png" />](https://www.blender.org/)
 
 <br />
