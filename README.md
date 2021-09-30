@@ -24,7 +24,7 @@
 [<img align="left" alt="python" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="SQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.mysql.com/)
 [<img align="left" alt="GitHub" width="34px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />](https://github.com/)
-[<img align="left" alt="Docker" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
+
 <br />
 <br />
 [<img align="left" alt="Photoshop" width="34px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-cc-1855022-1571403.png" />](https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw-sqKBhBjEiwAVaQ9a4ykLsXHZb_q1jeAtpt4OAG31myZzKJeL1va8xiD6ZeX7ayGGpksqRoCDSAQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a4ykLsXHZb_q1jeAtpt4OAG31myZzKJeL1va8xiD6ZeX7ayGGpksqRoCDSAQAvD_BwE)
