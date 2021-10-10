@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on GUI
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Web Developing
 - 🤔 I’m looking for help with Automation
 - 💬 Ask me about GUI/UX/UI
 - 📫 How to reach me: srivastava57harsh@gmail.com
