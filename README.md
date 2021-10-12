@@ -9,7 +9,7 @@
 - 📫 How to reach me: srivastava57harsh@gmail.com
 - ⚡ Fun fact: There are 24hrs in a day
 
-### Reach me out at :
+### Reach me out on :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhnk_un2NtyuDXHVwPOsZFHNA-mSBDyKysQ&usqp=CAU" />](https://www.linkedin.com/in/harsh-srivastava-65649a17a/)
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://bitzinfotech.com/wp-content/uploads/2020/05/insta-class.png" />](https://www.instagram.com/_harsh_bts_srivastava_/)
