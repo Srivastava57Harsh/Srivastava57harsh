@@ -44,8 +44,8 @@
 
 |🎯 Github Streaks and Trophies 🏆|
 |----------------------------------|
-[![Harsh's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Srivastava57Harsh&theme=midnight-purple&hide_border=true)](https://github.com/Srivastava57Harsh)
-|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivastava57Harsh&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Srivastava57Harsh)|[![Trophies](https://github-profile-trophy.vercel.app/?username=Srivastava57Harsh&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/Srivastava57Harsh)
+[![Harsh's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Srivastava57Harsh&theme=midnight-purple&hide_border=true)](https://github.com/Srivastava57Harsh)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivastava57Harsh&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Srivastava57Harsh)|[![Trophies](https://github-profile-trophy.vercel.app/?username=Srivastava57Harsh&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/Srivastava57Harsh)
+
 </p>
 
 <br />
