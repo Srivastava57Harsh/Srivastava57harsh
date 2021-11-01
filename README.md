@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help with Automation.
-- 💬 Ask me about GUI/UX/UI
+- 💬 Ask me about GUI/UX/UI.
 - 📫 How to reach me: srivastava57harsh@gmail.com
 - ⚡ Fun fact: There are 24hrs in a day
 
