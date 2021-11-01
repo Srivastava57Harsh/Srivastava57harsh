@@ -3,7 +3,7 @@
 
 
 Visits:
-<h1 align="center">Hola, I am Harsh Srivastava width="30px"></h1>(https://profile-counter.glitch.me/Srivastava57Harsh/count.svg)
+<h1 align="center"> Visits: width="30px"></h1>(https://profile-counter.glitch.me/Srivastava57Harsh/count.svg)
 
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help with Automation.
