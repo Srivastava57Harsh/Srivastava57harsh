@@ -3,7 +3,8 @@
 
 
 
-<h1 >Visits: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> ![Visitor Count](https://profile-counter.glitch.me/lakshya-dhariwal/count.svg)
+<h1 >Visits:   </h1> 
+![Visitor Count](https://profile-counter.glitch.me/lakshya-dhariwal/count.svg)
 
 
 - 🌱 I’m currently learning Web Development.
