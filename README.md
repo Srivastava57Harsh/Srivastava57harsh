@@ -3,8 +3,9 @@
 
 
 
-<h1 >Visits:   </h1> 
-![Visitor Count](https://profile-counter.glitch.me/lakshya-dhariwal/count.svg)
+<h1 >Visits: </h1> 
+
+![Visitor Count](https://profile-counter.glitch.me/Srivastava57Harsh/count.svg)
 
 
 - 🌱 I’m currently learning Web Development.
