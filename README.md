@@ -3,9 +3,7 @@
 
 
 
-<h1 >Visits: </h1>         
-
-![Visitor Count](https://profile-counter.glitch.me/Srivastava57Harsh/count.svg)
+<h1 >Visits: </h1>    ![Visitor Count](https://profile-counter.glitch.me/Srivastava57Harsh/count.svg)
 
 
 
