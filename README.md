@@ -42,7 +42,7 @@
 [<img align="left" alt="Illustrator" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" />](https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=CjwKCAjw-sqKBhBjEiwAVaQ9azoYjp4hcPIWqJbjLS7pXIomSgUZwWzV5T6uXFc24N04MoN8wF2hUBoCW44QAvD_BwE:G:s&s_kwcid=AL!3085!3!248235017690!e!!g!!illustrator!221172068!17525759348&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9azoYjp4hcPIWqJbjLS7pXIomSgUZwWzV5T6uXFc24N04MoN8wF2hUBoCW44QAvD_BwE)
 [<img align="left" alt="Sony Vegas" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />](https://www.vegascreativesoftware.com/ca/?gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a1tx7ese-oTqgsTwMbpHH1TpglcKZB68ULTEJxHwHaBnvOllctSmchoCFm0QAvD_BwE)
 
-<br/>
+
 <br/>
 <br/>
 
