@@ -19,7 +19,7 @@
 ### Reach me out on :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/harsh-srivastava-65649a17a/)
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://bitzinfotech.com/wp-content/uploads/2020/05/insta-class.png" />](https://www.instagram.com/_harsh_bts_srivastava_/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/_harsh_bts_srivastava_/)
 <br />
 
 ### Languages and Tools:
