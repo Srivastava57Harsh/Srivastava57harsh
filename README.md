@@ -17,7 +17,7 @@
 - ⚡ Fun fact: There is no place like 127.0.0.1
 
 
- ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Srivastava57Harsh&theme=react-dark)
+
 
 
 ### Reach me out on :
