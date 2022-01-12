@@ -16,6 +16,10 @@
 - 📫 How to reach me: srivastava57harsh@gmail.com
 - ⚡ Fun fact: There is no place like 127.0.0.1
 
+
+ ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Srivastava57Harsh&theme=react-dark)
+
+
 ### Reach me out on :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto:prathambhatnagar2803@gmail.com?)
 
