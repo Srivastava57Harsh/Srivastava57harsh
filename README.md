@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I am Harsh Srivastava <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="310" height="280" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76113ec6f004299080f1a0b4518fb9d4cf2a277d4f94&rid=giphy.gif&ct=s" width="310" height="280" /
 
 
 
