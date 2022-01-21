@@ -76,7 +76,7 @@
 
 <p>
   <a href="https://skyline.github.com/Srivastava57Harsh/2021" target="_blank">
-    <img height="400" width="auto" src="./skyline-animated-graph/skyline-Srivastava57Harsh.gif" alt="Skyline Github Contributon 2021" />
+   <center> <img height="400" width="auto" src="./skyline-animated-graph/skyline-Srivastava57Harsh.gif" alt="Skyline Github Contributon 2021" /></center>
   </a>
 </p>
 
