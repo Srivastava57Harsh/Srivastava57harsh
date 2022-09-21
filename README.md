@@ -22,7 +22,7 @@
 
 
 ### Reach me out on :
-<!-- [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto:prathambhatnagar2803@gmail.com?) -->
+<!-- [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />](mailto: srivastava57harsh@gmail.com?) -->
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="29px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/harsh-srivastava-65649a17a/)
 
